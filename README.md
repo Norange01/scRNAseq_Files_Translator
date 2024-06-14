@@ -6,4 +6,5 @@ Install the following using the terminal:
 ```
 pip install pandas
 pip install IPython
-pip install scipy```
+pip install scipy
+```
